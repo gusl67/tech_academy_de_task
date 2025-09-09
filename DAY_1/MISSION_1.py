@@ -1,5 +1,5 @@
 import logging
-from DO_NOT_OPEN.file_utils import combination_lock_1
+from ZDO_NOT_OPEN.file_utils import combination_lock_1
 from DAY_1.MISSION_1_FUNCTIONS import *
 
 """
