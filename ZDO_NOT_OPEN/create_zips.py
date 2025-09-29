@@ -5,8 +5,8 @@ import pyzipper
 script_dir = os.path.dirname(os.path.abspath(__file__))
 project_root = os.path.dirname(script_dir)
 
-raw_data_folder = os.path.join(project_root, "DO_NOT_OPEN/day_2_raw")
-mission_code_folder = os.path.join(project_root, "DO_NOT_OPEN/mission_python")
+raw_data_folder = os.path.join(project_root, "ZDO_NOT_OPEN/day_2_raw")
+mission_code_folder = os.path.join(project_root, "ZDO_NOT_OPEN/mission_python")
 mission_output_folder = os.path.join(project_root, "DAY_2")
 zip_output_file = os.path.join(mission_output_folder, "MISSION_2.zip")
 
@@ -54,7 +54,7 @@ Without it, Global Radio’s broadcast will be offline... forever.
 🎉 Good luck, Agent — Global Radio is counting on you!
 """
 
-readme_path = os.path.join(project_root, "DO_NOT_OPEN/MISSION_2.txt")
+readme_path = os.path.join(project_root, "ZDO_NOT_OPEN/MISSION_2.txt")
 with open(readme_path, "w", encoding='utf-8') as f:
     f.write(readme_text)
 
