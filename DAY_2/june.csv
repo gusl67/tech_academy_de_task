@@ -1,0 +1,101 @@
+date,month,artist_id,artist_name,song_name,radio_station,region
+2024-06-08,June,17.0,Lorde,Solar Power,Gold,UK
+2024-06-28,June,17.0,Lorde,Royals,Heart,US
+2024-06-21,June,17.0,Lorde,Green Light,Heart,UK
+2024-06-11,June,17.0,Lorde,Green Light,Smooth,UK
+2024-06-01,June,17.0,Lorde,Green Light,Heart,US
+2024-06-05,June,17.0,Lorde,Royals,Heart,US
+2024-06-05,June,17.0,Lorde,Royals,Heart,US
+2024-06-10,June,17.0,Lorde,Royals,Capital,US
+2024-06-10,June,17.0,Lorde,Green Light,Gold,UK
+2024-06-27,June,17.0,Lorde,Green Light,Heart,US
+2024-06-21,June,17.0,Lorde,Royals,Capital,UK
+2024-06-10,June,17.0,Lorde,Royals,Heart,UK
+2024-06-17,June,17.0,Lorde,Royals,Smooth,UK
+2024-06-12,June,17.0,Lorde,Royals,Capital,UK
+2024-06-27,June,17.0,Lorde,Green Light,Classic_FM,US
+2024-06-29,June,17.0,Lorde,Royals,Smooth,US
+2024-06-02,June,17.0,Lorde,Solar Power,Capital,UK
+2024-06-24,June,17.0,Lorde,Solar Power,Classic_FM,US
+2024-06-08,June,17.0,Lorde,Green Light,Capital,US
+2024-06-10,June,17.0,Lorde,Green Light,Smooth,UK
+2024-06-10,June,17.0,Lorde,Green Light,Smooth,UK
+2024-06-12,June,17.0,Lorde,Royals,Classic_FM,US
+2024-06-12,June,17.0,Lorde,Royals,Classic_FM,US
+2024-06-29,June,17.0,Lorde,Royals,Smooth,UK
+2024-06-12,June,17.0,Lorde,Royals,Heart,UK
+2024-06-15,June,17.0,Lorde,Solar Power,Smooth,UK
+2024-06-29,June,17.0,Lorde,Green Light,Heart,US
+2024-06-13,June,17.0,Lorde,Solar Power,Classic_FM,US
+2024-06-10,June,14.0,Katy Perry,Roar,Capital,UK
+2024-06-05,June,14.0,Katy Perry,Roar,Capital,UK
+2024-06-19,June,14.0,Katy Perry,Roar,Capital,UK
+2024-06-21,June,14.0,Katy Perry,Roar,Capital,UK
+2024-06-16,June,14.0,Katy Perry,Roar,Capital,UK
+2024-06-16,June,14.0,Katy Perry,Roar,Capital,UK
+2024-06-10,June,14.0,Katy Perry,Roar,Capital,UK
+2024-06-18,June,14.0,Katy Perry,Roar,Capital,UK
+2024-06-18,June,14.0,Katy Perry,Roar,Capital,UK
+2024-06-22,June,14.0,Katy Perry,Roar,Capital,UK
+2024-06-09,June,14.0,Katy Perry,Roar,Capital,UK
+2024-06-10,June,14.0,Katy Perry,Roar,Capital,UK
+2024-06-25,June,14.0,Katy Perry,Roar,Capital,UK
+2024-06-27,June,14.0,Katy Perry,Roar,Capital,UK
+2024-06-27,June,14.0,Katy Perry,Roar,Capital,UK
+2024-06-15,June,14.0,Katy Perry,Roar,Capital,UK
+2024-06-03,June,14.0,Katy Perry,Roar,Capital,UK
+2024-06-03,June,14.0,Katy Perry,Roar,Capital,UK
+,,,,,,
+2024-06-05,June,11.0,Imagine Dragons,Thunder,Capital,ROW
+2024-06-13,June,17.0,Lorde,Royals,Gold,US
+2024-06-19,June,6.0,The Weeknd,Starboy,Gold,UK
+2024-06-03,June,8.0,Bruno Mars,24K Magic,Capital,UK
+2024-06-21,June,19.0,SZA,Good Days,Gold,UK
+2024-06-14,June,8.0,Bruno Mars,24K Magic,Smooth,ROW
+2024-06-08,June,3.0,Adele,Someone Like You,Capital,ROW
+2024-06-28,June,16.0,Zara Larsson,Symphony,Classic_FM,UK
+2024-06-11,June,17.0,Lorde,Green Light,Gold,UK
+2024-06-14,June,5.0,Billie Eilish,Ocean Eyes,Smooth,ROW
+2024-06-21,June,11.0,Imagine Dragons,Believer,Capital,ROW
+2024-06-20,June,1.0,Taylor Swift,Love Story,Smooth,ROW
+2024-06-29,June,14.0,Katy Perry,Firework,Smooth,ROW
+2024-06-30,June,3.0,Adele,Someone Like You,Heart,UK
+2024-06-30,June,12.0,Shawn Mendes,Stitches,Gold,US
+2024-06-17,June,4.0,Drake,God's Plan,Gold,US
+2024-06-17,June,4.0,Drake,God's Plan,Gold,US
+2024-06-11,June,14.0,Katy Perry,Roar,Classic_FM,ROW
+2024-06-29,June,13.0,Lady Gaga,Bad Romance,Classic_FM,ROW
+2024-06-29,June,13.0,Lady Gaga,Bad Romance,Classic_FM,ROW
+2024-06-06,June,1.0,Taylor Swift,You Belong With Me,Classic_FM,UK
+2024-06-15,June,4.0,Drake,In My Feelings,Heart,ROW
+2024-06-27,June,4.0,Drake,God's Plan,Classic_FM,UK
+2024-06-17,June,6.0,The Weeknd,Blinding Lights,Heart,UK
+2024-06-08,June,12.0,Shawn Mendes,Treat You Better,Gold,ROW
+2024-06-26,June,12.0,Shawn Mendes,Stitches,Gold,US
+2024-06-16,June,1.0,Taylor Swift,Love Story,Heart,ROW
+2024-06-13,June,19.0,SZA,Love Galore,Smooth,US
+2024-06-25,June,9.0,Ariana Grande,No Tears Left To Cry,Smooth,ROW
+2024-06-25,June,9.0,Ariana Grande,No Tears Left To Cry,Smooth,ROW
+2024-06-15,June,4.0,Drake,God's Plan,Heart,UK
+2024-06-16,June,20.0,Demi Lovato,Heart Attack,Smooth,UK
+2024-06-27,June,20.0,Demi Lovato,Cool for the Summer,Classic_FM,US
+2024-06-27,June,20.0,Demi Lovato,Cool for the Summer,Classic_FM,US
+2024-06-17,June,3.0,Adele,Rolling in the Deep,Classic_FM,US
+2024-06-22,June,1.0,Taylor Swift,Love Story,Capital,US
+2024-06-22,June,1.0,Taylor Swift,Love Story,Capital,US
+2024-06-21,June,11.0,Imagine Dragons,Believer,Capital,US
+2024-06-23,June,7.0,Dua Lipa,Levitating,Capital,ROW
+2024-06-20,June,15.0,Coldplay,Yellow,Heart,US
+2024-06-26,June,7.0,Dua Lipa,Levitating,Smooth,US
+2024-06-09,June,5.0,Billie Eilish,Bad Guy,Gold,US
+2024-06-21,June,1.0,Taylor Swift,You Belong With Me,Smooth,ROW
+2024-06-21,June,1.0,Taylor Swift,You Belong With Me,Smooth,ROW
+2024-06-12,June,8.0,Bruno Mars,Just The Way You Are,Capital,UK
+2024-06-29,June,4.0,Drake,Hotline Bling,Capital,ROW
+2024-06-20,June,1.0,Taylor Swift,Shake It Off,Smooth,US
+2024-06-17,June,1.0,Taylor Swift,Shake It Off,Classic_FM,US
+2024-06-23,June,12.0,Shawn Mendes,Stitches,Heart,UK
+2024-06-27,June,10.0,Post Malone,Rockstar,Smooth,US
+2024-06-15,June,3.0,Adele,Hello,Classic_FM,ROW
+2024-06-18,June,6.0,The Weeknd,Can't Feel My Face,Gold,US
+2024-06-23,June,8.0,Bruno Mars,Uptown Funk,Smooth,ROW

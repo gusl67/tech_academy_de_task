@@ -1,0 +1,167 @@
+month,artist_id,song_name,revenue_per_play_gbp
+June,1,Love Story,7.83
+June,1,Shake It Off,9.71
+June,1,You Belong With Me,2.16
+June,2,Perfect,8.51
+June,2,Shape of You,2.36
+June,2,Thinking Out Loud,7.56
+June,3,Hello,6.98
+June,3,Rolling in the Deep,1.93
+June,3,Someone Like You,1.68
+June,4,God's Plan,5.67
+June,4,Hotline Bling,7.58
+June,4,Hotline Bling,7.58
+June,4,In My Feelings,7.87
+June,5,Bad Guy,7.21
+June,5,Ocean Eyes,8.03
+June,6,Blinding Lights,9.28
+June,6,Can't Feel My Face,7.94
+June,6,Starboy,4.54
+June,7,Don't Start Now,6.63
+June,7,Levitating,3.99
+June,8,24K Magic,5.97
+June,8,Just The Way You Are,3.44
+June,8,Uptown Funk,7.14
+June,9,No Tears Left To Cry,3.48
+June,9,"Thank U, Next",3.79
+June,10,Circles,7.95
+June,10,Rockstar,6
+June,11,Believer,1.73
+June,11,Radioactive,5.01
+June,11,Thunder,2.98
+June,11,Thunder,2.98
+June,12,In My Blood,1.06
+June,12,Stitches,6.5
+June,12,Treat You Better,8.72
+June,13,Bad Romance,3.77
+June,13,Shallow,8.98
+June,13,Firework,9.42
+June,14,Firework,8.12
+June,14,Roar,8.67
+June,15,Fix You,1.07
+June,15,Yellow,2.52
+June,16,Lush Life,7.45
+June,16,Ruin My Life,5.1
+June,16,Symphony,6.58
+June,17,Green Light,5.32
+June,17,Royals,3.72
+June,17,Solar Power,4.77
+June,18,Con Altura,9.62
+June,18,Pienso En Tu Mirá,5.06
+June,19,Good Days,4.04
+June,19,Love Galore,3.85
+June,19,The Weekend,6.85
+June,20,Confident,4.01
+June,20,Cool for the Summer,5.71
+June,20,Heart Attack,7.37
+July,1,Love Story,9.42
+July,1,Shake It Off,2.04
+July,1,You Belong With Me,9.94
+July,1,You Belong With Me,9.94
+July,2,Perfect,5.77
+July,2,Shape of You,7.74
+July,2,Thinking Out Loud,5.84
+July,3,Hello,7.83
+July,3,Rolling in the Deep,6.27
+July,3,Someone Like You,6.5
+July,4,God's Plan,1.42
+July,4,Hotline Bling,7.59
+July,4,In My Feelings,8.4
+July,5,Bad Guy,1.44
+July,5,Ocean Eyes,8.39
+July,6,Blinding Lights,4.4
+July,6,Can't Feel My Face,5.24
+July,6,Starboy,8
+July,7,Don't Start Now,7.84
+July,7,Levitating,1.33
+July,8,24K Magic,3.43
+July,8,Just The Way You Are,3.37
+July,8,Uptown Funk,1.06
+July,9,No Tears Left To Cry,1.45
+July,9,"Thank U, Next",9.92
+July,10,Circles,8.36
+July,10,Rockstar,9.4
+July,11,Believer,3.25
+July,11,Radioactive,3.3
+July,11,Thunder,3.29
+July,12,In My Blood,6.79
+July,12,Stitches,4.31
+July,12,Treat You Better,6.86
+July,13,Bad Romance,9.3
+July,13,Shallow,5.29
+July,13,Firework,7.25
+July,14,Firework,7.72
+July,14,Roar,5.26
+July,15,Fix You,9.58
+July,15,Yellow,9.96
+July,16,Lush Life,9.71
+July,14,Roar,5.26
+July,16,Ruin My Life,8.8
+July,16,Symphony,3.73
+July,17,Green Light,9.81
+July,17,Royals,8.12
+July,17,Solar Power,1.71
+July,18,Con Altura,9.26
+July,18,Pienso En Tu Mirá,1.67
+July,19,Good Days,7.67
+July,19,Love Galore,2.84
+July,19,The Weekend,4.14
+July,20,Confident,3
+July,20,Cool for the Summer,3.93
+July,20,Heart Attack,6.11
+August,1,Love Story,8.02
+August,1,Shake It Off,3.39
+August,1,You Belong With Me,5.98
+August,2,Perfect,8.52
+August,2,Shape of You,8.89
+August,2,Thinking Out Loud,3.95
+August,3,Hello,6.15
+August,3,Hello,6.15
+August,3,Rolling in the Deep,7.57
+August,3,Someone Like You,3.65
+August,4,God's Plan,9.18
+August,4,Hotline Bling,7.95
+August,4,In My Feelings,5.8
+August,5,Bad Guy,1.54
+August,5,Ocean Eyes,9.15
+August,6,Blinding Lights,9.51
+August,6,Can't Feel My Face,5.69
+August,6,Starboy,1.04
+August,7,Don't Start Now,8.68
+August,7,Levitating,2.91
+August,8,24K Magic,8.53
+August,8,Just The Way You Are,9.36
+August,8,Uptown Funk,8.49
+August,9,No Tears Left To Cry,9.27
+August,9,"Thank U, Next",8.08
+August,10,Circles,6.54
+August,10,Rockstar,2.44
+August,11,Believer,9.76
+August,11,Radioactive,7.1
+August,11,Thunder,2.86
+August,12,In My Blood,1.12
+August,12,Stitches,9.41
+August,12,Treat You Better,6.5
+August,13,Bad Romance,6.71
+August,13,Shallow,8.64
+August,13,Firework,4.91
+August,13,Firework,4.91
+August,14,Firework,1.43
+August,14,Roar,7.65
+August,15,Fix You,1.25
+August,15,Yellow,6.25
+August,16,Lush Life,2.01
+August,16,Ruin My Life,9.94
+August,16,Symphony,7.63
+August,17,Green Light,3.58
+August,17,Royals,6.21
+August,17,Solar Power,5.68
+August,18,Con Altura,9.99
+August,18,Pienso En Tu Mirá,6.88
+August,18,Pienso En Tu Mirá,6.88
+August,19,Good Days,9.42
+August,19,Love Galore,6.44
+August,19,The Weekend,7.28
+August,20,Confident,8.18
+August,20,Cool for the Summer,1.15
+August,20,Heart Attack,2.27

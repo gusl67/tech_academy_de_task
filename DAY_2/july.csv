@@ -1,0 +1,101 @@
+date,month,artist_id,artist_name,song_name,radio_station,region
+2024-07-15,July,17.0,Lorde,Royals,Capital,UK
+2024-07-15,July,17.0,Lorde,Royals,Capital,UK
+2024-07-30,July,17.0,Lorde,Royals,Capital,US
+2024-07-30,July,17.0,Lorde,Royals,Capital,US
+2024-07-26,July,17.0,Lorde,Solar Power,Gold,UK
+2024-07-11,July,17.0,Lorde,Royals,Classic_FM,UK
+2024-07-21,July,17.0,Lorde,Solar Power,Smooth,UK
+2024-07-30,July,17.0,Lorde,Green Light,Classic_FM,UK
+2024-07-30,July,17.0,Lorde,Green Light,Classic_FM,UK
+2024-07-19,July,17.0,Lorde,Royals,Heart,US
+2024-07-19,July,17.0,Lorde,Royals,Heart,US
+2024-07-19,July,17.0,Lorde,Royals,Capital,UK
+2024-07-10,July,17.0,Lorde,Green Light,Capital,UK
+2024-07-10,July,17.0,Lorde,Green Light,Capital,UK
+2024-07-02,July,17.0,Lorde,Royals,Heart,UK
+2024-07-12,July,17.0,Lorde,Green Light,Smooth,US
+2024-07-07,July,17.0,Lorde,Royals,Classic_FM,US
+2024-07-07,July,17.0,Lorde,Royals,Classic_FM,US
+2024-07-23,July,17.0,Lorde,Green Light,Heart,UK
+2024-07-31,July,17.0,Lorde,Royals,Gold,UK
+2024-07-07,July,17.0,Lorde,Green Light,Gold,US
+2024-07-14,July,17.0,Lorde,Green Light,Smooth,UK
+2024-07-14,July,17.0,Lorde,Green Light,Smooth,UK
+2024-07-24,July,17.0,Lorde,Solar Power,Heart,UK
+2024-07-24,July,17.0,Lorde,Solar Power,Heart,UK
+2024-07-18,July,17.0,Lorde,Royals,Heart,UK
+2024-07-07,July,17.0,Lorde,Green Light,Capital,US
+2024-07-24,July,17.0,Lorde,Green Light,Classic_FM,US
+2024-07-06,July,17.0,Lorde,Royals,Classic_FM,US
+2024-07-15,July,17.0,Lorde,Green Light,Gold,US
+2024-07-13,July,17.0,Lorde,Solar Power,Smooth,US
+2024-07-12,July,17.0,Lorde,Green Light,Classic_FM,US
+2024-07-12,July,17.0,Lorde,Solar Power,Capital,UK
+2024-07-22,July,16.0,Zara Larsson,Symphony,Heart,ROW
+2024-07-01,July,16.0,Zara Larsson,Lush Life,Gold,ROW
+2024-07-09,July,16.0,Zara Larsson,Lush Life,Classic_FM,ROW
+2024-07-23,July,16.0,Zara Larsson,Symphony,Classic_FM,ROW
+2024-07-27,July,16.0,Zara Larsson,Ruin My Life,Smooth,ROW
+2024-07-22,July,16.0,Zara Larsson,Symphony,Gold,ROW
+2024-07-22,July,16.0,Zara Larsson,Symphony,Gold,ROW
+2024-07-22,July,16.0,Zara Larsson,Symphony,Capital,ROW
+2024-07-26,July,16.0,Zara Larsson,Symphony,Capital,ROW
+2024-07-19,July,16.0,Zara Larsson,Symphony,Gold,ROW
+2024-07-26,July,16.0,Zara Larsson,Lush Life,Classic_FM,ROW
+2024-07-25,July,16.0,Zara Larsson,Symphony,Classic_FM,ROW
+2024-07-29,July,16.0,Zara Larsson,Symphony,Capital,ROW
+2024-07-29,July,16.0,Zara Larsson,Symphony,Capital,ROW
+2024-07-20,July,16.0,Zara Larsson,Symphony,Capital,ROW
+2024-07-04,July,16.0,Zara Larsson,Ruin My Life,Heart,ROW
+2024-07-29,July,16.0,Zara Larsson,Symphony,Smooth,ROW
+2024-07-24,July,20.0,Demi Lovato,Heart Attack,Capital,ROW
+2024-07-05,July,20.0,Demi Lovato,Confident,Capital,ROW
+2024-07-05,July,20.0,Demi Lovato,Confident,Capital,ROW
+2024-07-31,July,20.0,Demi Lovato,Confident,Capital,ROW
+2024-07-26,July,20.0,Demi Lovato,Heart Attack,Capital,ROW
+2024-07-01,July,20.0,Demi Lovato,Heart Attack,Capital,ROW
+2024-07-09,July,20.0,Demi Lovato,Confident,Heart,ROW
+2024-07-19,July,20.0,Demi Lovato,Confident,Classic_FM,ROW
+2024-07-31,July,20.0,Demi Lovato,Confident,Gold,ROW
+2024-07-17,July,1.0,Taylor Swift,You Belong With Me,Smooth,ROW
+2024-07-24,July,1.0,Taylor Swift,Shake It Off,Heart,ROW
+2024-07-04,July,1.0,Taylor Swift,You Belong With Me,Smooth,ROW
+2024-07-10,July,1.0,Taylor Swift,Love Story,Smooth,ROW
+2024-07-08,July,1.0,Taylor Swift,You Belong With Me,Heart,ROW
+2024-07-24,July,1.0,Taylor Swift,Shake It Off,Smooth,ROW
+2024-07-24,July,1.0,Taylor Swift,Shake It Off,Smooth,ROW
+2024-07-13,July,17.0,Lorde,Green Light,Heart,ROW
+2024-07-08,July,17.0,Lorde,Solar Power,Smooth,ROW
+2024-07-22,July,17.0,Lorde,Solar Power,Gold,ROW
+2024-07-05,July,8.0,Bruno Mars,Just The Way You Are,Heart,US
+2024-07-05,July,8.0,Bruno Mars,24K Magic,Gold,US
+2024-07-28,July,1.0,Taylor Swift,Love Story,Classic_FM,UK
+2024-07-01,July,11.0,Imagine Dragons,Believer,Smooth,US
+2024-07-10,July,15.0,Coldplay,Fix You,Classic_FM,US
+2024-07-10,July,15.0,Coldplay,Fix You,Classic_FM,US
+2024-07-22,July,14.0,Katy Perry,Firework,Gold,US
+2024-07-22,July,14.0,Katy Perry,Firework,Gold,US
+2024-07-30,July,19.0,SZA,The Weekend,Heart,UK
+2024-07-24,July,9.0,Ariana Grande,No Tears Left To Cry,Smooth,UK
+2024-07-24,July,19.0,SZA,The Weekend,Smooth,US
+2024-07-01,July,8.0,Bruno Mars,Just The Way You Are,Gold,US
+2024-07-01,July,8.0,Bruno Mars,Just The Way You Are,Gold,US
+2024-07-12,July,18.0,Rosalia,Pienso En Tu Mirá,Classic_FM,UK
+2024-07-20,July,2.0,Ed Sheeran,Perfect,Gold,US
+2024-07-12,July,13.0,Lady Gaga,Shallow,Capital,UK
+2024-07-31,July,1.0,Taylor Swift,You Belong With Me,Gold,UK
+2024-07-30,July,12.0,Shawn Mendes,In My Blood,Gold,US
+2024-07-04,July,10.0,Post Malone,Rockstar,Smooth,US
+2024-07-11,July,3.0,Adele,Someone Like You,Classic_FM,US
+2024-07-31,July,15.0,Coldplay,Yellow,Heart,US
+2024-07-29,July,15.0,Coldplay,Fix You,Capital,UK
+2024-07-09,July,14.0,Katy Perry,Roar,Heart,US
+2024-07-19,July,19.0,SZA,Good Days,Heart,US
+2024-07-19,July,19.0,SZA,Good Days,Heart,US
+2024-07-15,July,20.0,Demi Lovato,Confident,Smooth,ROW
+2024-07-25,July,8.0,Bruno Mars,24K Magic,Capital,UK
+2024-07-02,July,15.0,Coldplay,Yellow,Heart,US
+2024-07-19,July,7.0,Dua Lipa,Don't Start Now,Heart,UK
+,,,,,,
+2024-07-14,July,6.0,The Weeknd,Blinding Lights,Capital,UK

@@ -1,17 +1,13 @@
 import pandas as pd
 
-"""
-Fill in the blanks in the code below to complete the functions.
-"""
-
 # STEP 1 – Load the data
 def load_dataframe(file_path):
     """
     Loads a CSV file and checks if it's empty.
     """
-    data = "*INSERT CODE HERE*"                           # Load the CSV file into a DataFrame
+    data = pd.read_csv(file_path)
 
-    if "*INSERT CODE HERE*":                              # Check if the DataFrame is empty and raise an error if it is.
+    if data.empty:
         raise ValueError("This file is empty. Please check the input.")
 
     return data
@@ -22,8 +18,8 @@ def clean_dataframe(data):
     """
     Removes any rows with missing values and any exact duplicates.
     """
-    data = "*INSERT CODE HERE*"                                    # Remove rows with missing values
-    data = "*INSERT CODE HERE*"                                    # Remove duplicate rows
+    data = data.dropna()           # Remove rows with missing values
+    data = data.drop_duplicates()  # Remove duplicate rows
     return data
 
 
@@ -32,8 +28,7 @@ def combine_datasets(list_of_dfs):
     """
     Combines a list of dataframes into one big dataframe.
     """
-    combined_data = "*INSERT CODE HERE*"(list_of_dfs, ignore_index=True) # Concatenate all dataframes in the list
-
+    combined_data = pd.concat(list_of_dfs, ignore_index=True)
     return combined_data
 
 
@@ -42,9 +37,8 @@ def find_clue_1(data):
     """
     Finds the artist who appears the most in the data.
     """
-    artist_counts = "*INSERT CODE HERE*"                    # Count how many times each artist shows up
-    most_common_artist = "*INSERT CODE HERE*"               # Sort artists by number of streams (from highest to lowest)
-
+    artist_counts = data['artist_name'].value_counts()
+    most_common_artist = artist_counts.idxmax()
     return most_common_artist
 
 
@@ -53,14 +47,18 @@ def find_clue_2(data):
     """
     Finds the most played song on Capital in the UK for June and August.
     """
-    filtered_data = "*INSERT CODE HERE*"                    # Filter to only rows in UK region in June and August
+    # Filter the data to just what we need
+    filtered_data = data[
+        (data['radio_station'] == 'Capital') &
+        (data['region'] == 'UK') &
+        (data['month'].isin(['June', 'August']))
+    ]
 
-    if "*INSERT CODE HERE*":                                # Check if filtered data is empty
+    if filtered_data.empty:
         return None
 
-    song_counts = "*INSERT CODE HERE*"                      # Count how many times each song shows up
-    most_played_song = "*INSERT CODE HERE*"                 # Sort songs by number of plays (from highest to lowest)
-
+    song_counts = filtered_data['song_name'].value_counts()
+    most_played_song = song_counts.idxmax()
     return most_played_song
 
 
@@ -68,28 +66,36 @@ def find_clue_2(data):
 def find_clue_3(data):
     """
     Gets a 4-letter word from the last letters of artist names
-    who were the most played in July not in the UK or US.
+    that streamed in 'ROW' region in July, sorted by most plays.
     """
-    clue_data = "*INSERT CODE HERE*"                        # Filter to only rows to not US or UK region in July
+    # Filter to only rows in ROW region in July
+    clue_data = data[
+        (data['region'] == 'ROW') &
+        (data['month'] == 'July')
+    ]
 
-    artist_counts = {}                                      # Used count how many times each artist shows up
-    for "*INSERT CODE HERE*" in "*INSERT CODE HERE*":       # Iterate through each row in the filtered data
-        if "*INSERT CODE HERE*" not in "*INSERT CODE HERE*": # Check if the artist is already in the dictionary
-            "*INSERT CODE HERE*"                            # If not, add it with a count of 1
+    # Count how many times each artist shows up
+    artist_counts = {}
+    for name in clue_data['artist_name']:
+        if name not in artist_counts:
+            artist_counts[name] = 1
         else:
-            "*INSERT CODE HERE*"                            # If it is, increase the count by 1
+            artist_counts[name] += 1
 
-                                                            # Sort artists by number of streams (from highest to lowest)
+    # Sort artists by number of streams (from highest to lowest)
     sorted_artists = sorted(artist_counts.items(), key=lambda x: x[1], reverse=True)
 
-    top_4_artists = "*INSERT CODE HERE*"                    # Get the top 4 artists
+    # Take the first 4 artists
+    top_4_artists = sorted_artists[:4]
 
-    last_letters = []                                       # List to hold the last letters of the artist names
-    for "*INSERT CODE HERE*" in "*INSERT CODE HERE*":       # Iterate through the top 4 artists
-        name = "*INSERT CODE HERE*"                         # Get the artist's name
-        last_letter = "*INSERT CODE HERE*"                  # Get the last letter of the artist's name
-        "*INSERT CODE HERE*"                                # Add the last letter to the list
+    # Get the last letter of each artist’s name
+    last_letters = []
+    for artist in top_4_artists:
+        name = artist[0]
+        last_letter = name[-1]
+        last_letters.append(last_letter)
 
-    clue_word = "*INSERT CODE HERE*"                        # Join the last letters to form a word
+    # Join the letters into a word
+    clue_word = ''.join(last_letters)
 
     return clue_word
