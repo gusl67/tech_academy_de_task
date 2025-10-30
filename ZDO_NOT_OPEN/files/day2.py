@@ -91,7 +91,7 @@ def find_clue_1(data):
 
 def find_clue_2(data):
     """
-    Finds the artist with the highest number of plays and returns their name and total revenue.
+    Finds the artist with the highest number of plays and returns their total revenue.
     """
     top_artist = data.groupby('artist_id')['number_of_plays'].sum().idxmax()
 

@@ -47,7 +47,7 @@ You’ve officially gone from rookie to certified Data Agent.
 — HQ Out.
 """
 
-readme_path = os.path.join(project_root, "DO_NOT_OPEN/FINAL.txt")
+readme_path = os.path.join(project_root, "ZDO_NOT_OPEN/FINAL.txt")
 with open(readme_path, "w", encoding='utf-8') as f:
     f.write(readme_text)
 
